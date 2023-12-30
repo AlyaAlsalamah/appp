@@ -17,7 +17,7 @@ model.set_params(**{'randomforestclassifier__max_depth': None,
                     'tfidfvectorizer__ngram_range': (1, 2)})
 
 # Sample bilingual dictionary file path
-bilingual_dict_path = '/Users/alyaalsalamah/Documents/ML-EVERYthing/appp/english_arabic_dictionary.csv'
+bilingual_dict_path = 'english_arabic_dictionary.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(bilingual_dict_path, names=['English', 'Arabic'])
