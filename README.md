@@ -1,8 +1,11 @@
 <h1> English to Arabic Translator </h1>
 
 <h2>Overview
-This Streamlit app translates English words into Arabic using a pre-trained model based on a bilingual dictionary.
-</h2>
+This Streamlit app translates English words into Arabic using a pre-trained model based on a bilingual dictionary.</h2>
+
+  <h3>And this is the link to it:
+    https://word-translator.streamlit.app/
+</h3>
 
 <h2>Requirements</h2> <br>
 Python 3.6 or later<br>
